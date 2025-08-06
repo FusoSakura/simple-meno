@@ -1,0 +1,23 @@
+<input>: Makes a box where users can type text or data.
+<button>: Makes a clickable button for actions.
+<strong>: Makes text bold to show it’s important.
+Korean:
+
+<input>: 사용자가 텍스트나 데이터를 입력할 수 있는 상자를 만듭니다.
+<button>: 클릭할 수 있는 버튼을 만들어 동작을 실행합니다.
+<strong>: 중요한 내용을 굵게 표시합니다.
+
+
+placerholder in input
+The placeholder in the <input> tag is the light gray text shown inside the input box before the user types anything.
+It gives a hint or example of what to enter.
+placeholder는 사용자가 입력하기 전에 입력 상자 안에 표시되는 연한 회색 안내문입니다.
+무엇을 입력해야 하는지 힌트를 줍니다.
+
+getElementbyId
+English: Finds an HTML element by its id and lets you use it in JavaScript.
+Korean: HTML 요소의 id를 이용해 해당 요소를 찾아서 자바스크립트에서 사용할 수 있게 해줍니다.
+
+addEventlistener
+English: Lets you run code when something happens to an element (like a click).
+Korean: 요소에서 어떤 일이 일어날 때(예: 클릭) 코드를 실행할 수 있게 해줍니다.
